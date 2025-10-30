@@ -1,0 +1,51 @@
+# Arquivos e pastas do Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Arquivos específicos do Dart
+.dart_tool/
+
+# Arquivos de configuração de IDEs
+.idea/
+.vscode/
+
+# Arquivos de log e outros
+*.log
+
+# Arquivos específicos do Android
+android/app/src/main/assets/flutter_assets/
+android/app/build/
+android/.gradle/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+
+# Arquivos específicos do iOS
+ios/Flutter/App.framework
+ios/Flutter/engine.framework
+ios/Flutter/flutter_assets/
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+ios/.symlinks/
+ios/build/
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+
+# Arquivos específicos do macOS
+macos/Flutter/ephemeral
+macos/Pods/
+macos/.symlinks/
+macos/build/
+
+# Arquivos específicos do Linux
+linux/flutter/ephemeral
+
+# Arquivos específicos do Windows
+windows/flutter/ephemeral

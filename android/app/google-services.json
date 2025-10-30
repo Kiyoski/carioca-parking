@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521079573627",
+    "project_id": "cariocapark-20c9f",
+    "storage_bucket": "cariocapark-20c9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521079573627:android:9161c41f4f890ca9d4a6de",
+        "android_client_info": {
+          "package_name": "com.example.cariocapark2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWSrniHac8nQrIGD1GRUPTtdO-leoYznk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
